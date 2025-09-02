@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "category": "Chinese",
+      "items": [
+        {"name": "Chow Mein", "price": 6.5},
+        {"name": "Fried Rice", "price": 5.5},
+        {"name": "Manchurian", "price": 7.0},
+        {"name": "Spring Rolls", "price": 4.5},
+        {"name": "Kung Pao Chicken", "price": 8.0},
+        {"name": "Sweet and Sour Pork", "price": 7.5},
+        {"name": "Schezwan Noodles", "price": 6.8},
+        {"name": "Dim Sum", "price": 5.0},
+        {"name": "Chili Chicken", "price": 7.2},
+        {"name": "Hot and Sour Soup", "price": 4.0}
+      ]
+    },
+    {
+      "category": "Pizzas",
+      "items": [
+        {"name": "Margherita", "price": 6.0},
+        {"name": "Pepperoni", "price": 8.5},
+        {"name": "BBQ Chicken", "price": 9.0},
+        {"name": "Veggie Delight", "price": 7.5},
+        {"name": "Hawaiian", "price": 8.0},
+        {"name": "Four Cheese", "price": 9.5},
+        {"name": "Meat Lovers", "price": 10.0},
+        {"name": "Buffalo Chicken", "price": 9.2},
+        {"name": "Supreme", "price": 10.5},
+        {"name": "Paneer Tikka Pizza", "price": 8.8}
+      ]
+    },
+    {
+      "category": "Beverages",
+      "items": [
+        {"name": "Coca Cola", "price": 1.5},
+        {"name": "Pepsi", "price": 1.5},
+        {"name": "Lemonade", "price": 2.0},
+        {"name": "Iced Tea", "price": 2.5},
+        {"name": "Cold Coffee", "price": 3.0},
+        {"name": "Milkshake", "price": 3.5},
+        {"name": "Smoothie", "price": 4.0},
+        {"name": "Hot Coffee", "price": 2.5},
+        {"name": "Green Tea", "price": 2.0},
+        {"name": "Energy Drink", "price": 3.8}
+      ]
+    }
+  ]
+}
