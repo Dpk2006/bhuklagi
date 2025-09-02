@@ -139,15 +139,16 @@ body {
 .items .box {
     display: flex;
     gap: 80px;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 .items .box .dishname .img-of-items {
     /* outline: 1px solid; */
     /* max-width: 260px; */
-    height: 20rem;
+    height: 14rem;
     /* max-height: 270px; */
     display: flex;
     width: 23rem;
@@ -165,7 +166,11 @@ body {
 
 .detail {
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
     padding: 10px 20px;
     font-weight: bolder;
+}
+
+.dishname{
+    display: flex;
 }
