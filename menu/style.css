@@ -13,7 +13,7 @@ body {
     top: 0;
     left: 0;
     z-index: -1;
-    /* background: url("./icons-removebg-preview.png"); */
+    background: url("./icons-removebg-preview.png");
     background-repeat: repeat;
     opacity: 0.1;
 }
@@ -171,6 +171,27 @@ body {
     font-weight: bolder;
 }
 
-.dishname{
+.dishname {
     display: flex;
+}
+
+.test {
+
+    margin: 10px 129px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.inside-test {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 8px;
+
+}
+
+.ex{
+    outline: 1px solid black;
 }
